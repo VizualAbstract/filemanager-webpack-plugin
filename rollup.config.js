@@ -6,7 +6,8 @@ export default {
   plugins: [
     babel({
       "presets": [
-        ["env", {
+        [
+          "@babel/preset-env", {
           "targets": {
             "browsers": ["last 2 versions", "ie >= 10"]
           },
@@ -15,8 +16,8 @@ export default {
         }]
       ],
       "plugins": [
-        "external-helpers",
-        "babel-plugin-transform-class-properties"
+        "@babel/plugin-external-helpers",
+        "@babel/plugin-proposal-class-properties"
       ],
       babelrc: false
     }),

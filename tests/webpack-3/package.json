@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/gregnb/filemanager-webpack-plugin#readme",
   "devDependencies": {
-    "ava": "^2.3.0",
-    "webpack": "^3.12.0",
-    "webpack-dev-server": "^2.11.5"
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1",
+    "ava": "^0.25.0"
   },
   "dependencies": {
-    "cross-env": "^5.2.0",
-    "rimraf": "^2.7.1"
+    "cross-env": "^5.1.4",
+    "rimraf": "^2.6.2"
   }
 }
