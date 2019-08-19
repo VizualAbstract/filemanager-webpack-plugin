@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "archiver": "^3.0.0",
-    "cpx": "VizualAbstract/cpx",
+    "cpx": "github:VizualAbstract/cpx",
     "fs-extra": "^7.0.0",
     "make-dir": "^1.1.0",
     "mv": "^2.1.1",
