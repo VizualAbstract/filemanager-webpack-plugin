@@ -1,5 +1,5 @@
 {
-  "name": "filemanager-webpack-plugin",
+  "name": "filemanager-webpack-plugin-fixed",
   "version": "2.0.6",
   "description": "This Webpack plugin allows you to copy, archive (.zip), move, delete files and directories before and after builds",
   "main": "lib/index.js",
@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gregnb/filemanager-webpack-plugin.git"
+    "url": "git+https://github.com/VizualAbstract/filemanager-webpack-plugin.git"
   },
   "keywords": [
     "webpack"
   ],
-  "author": "gregnb",
+  "author": "VizualAbstract",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gregnb/filemanager-webpack-plugin/issues"
+    "url": "https://github.com/VizualAbstract/filemanager-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/gregnb/filemanager-webpack-plugin#readme",
+  "homepage": "https://github.com/VizualAbstract/filemanager-webpack-plugin#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",

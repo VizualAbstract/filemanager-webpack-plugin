@@ -8,22 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gregnb/filemanager-webpack-plugin.git"
+    "url": "git+https://github.com/VizualAbstract/filemanager-webpack-plugin.git"
   },
   "keywords": [
     "webpack"
   ],
-  "author": "gregnb",
+  "author": "VizualAbstract",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gregnb/filemanager-webpack-plugin/issues"
+    "url": "https://github.com/VizualAbstract/filemanager-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/gregnb/filemanager-webpack-plugin#readme",
+  "homepage": "https://github.com/VizualAbstract/filemanager-webpack-plugin#readme",
   "devDependencies": {
+    "ava": "^2.3.0",
     "webpack": "^4.2.0",
-    "webpack-cli": "2.0.12",
-    "webpack-dev-server": "^3.1.1",
-    "ava": "^0.25.0"
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
     "cross-env": "^5.1.4",
