@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "archiver": "^3.0.0",
-    "cpx-fixed": "^1.5.0",
+    "cpx-fixed": "^1.6.0",
     "fs-extra": "^7.0.0",
     "make-dir": "^1.1.0",
     "mv": "^2.1.1",
