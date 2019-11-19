@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const cpx = require('cpx');
+const cpx = require('cpx-fix');
 const fsExtra = require('fs-extra');
 const makeDir = require('make-dir');
 
